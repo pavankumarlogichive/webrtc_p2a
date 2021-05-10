@@ -1,0 +1,14 @@
+com/radisys/MainApplication.java
+ com.radisys.MainApplication
+ com.radisys.MainApplication$1
+com/radisys/BuildConfig.java
+ com.radisys.BuildConfig
+com/radisys/ReactNativeFlipper.java
+ com.radisys.ReactNativeFlipper
+ com.radisys.ReactNativeFlipper$1
+ com.radisys.ReactNativeFlipper$2
+ com.radisys.ReactNativeFlipper$2$1
+com/radisys/MainActivity.java
+ com.radisys.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
